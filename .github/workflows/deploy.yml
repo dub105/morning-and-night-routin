@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - claude/routine-manager-tool-qremhd
 
 permissions:
   contents: read
